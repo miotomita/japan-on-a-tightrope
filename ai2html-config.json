@@ -1,0 +1,46 @@
+{
+     "fonts": [
+         {
+             "aifont": "SourceSansPro-Bold",
+             "family": "Source Sans Pro",
+             "weight": "700",
+             "style": ""
+         },
+         {
+             "aifont": "SourceSansPro-Light",
+             "family": "Source Sans Pro",
+             "weight": "400",
+             "style": ""
+         },
+         {
+             "aifont": "SourceSansPro-Regular",
+             "family": "Source Sans Pro",
+             "weight": "500",
+             "style": ""
+         },
+         {
+             "aifont": "SourceSansPro-SemiBold",
+             "family": "Source Sans Pro",
+             "weight": "600",
+             "style": ""
+         },
+         {
+            "aifont": "MyriadPro-Regular",
+            "family": "MyriadPro-Regular",
+            "weight": "500",
+            "style": ""
+         },
+         {
+            "aifont": "Helvetica",
+            "family": "Helvetica",
+            "weight": "500",
+            "style": ""
+         },
+         {
+            "aifont": "Helvetica-Bold",
+            "family": "Helvetica-Bold",
+            "weight": "700",
+            "style": ""
+         }
+     ]
+ }
