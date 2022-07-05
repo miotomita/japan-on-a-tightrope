@@ -341,10 +341,10 @@
 					</g>
 					<g id="header">
 						<g transform="translate(-80,-22)">
-							<path pointer-events="none" class="st0" d="M32,9L32,9L32,9L32,9z"/>
+							<path pointer-events="none" class="st0" d="M68,9L68,9L68,9L68,9z"/>
 							<g>
 								<g pointer-events="none">
-									<text transform="matrix(1 0 0 1 32 19)" class="st19 st20">Average Number of Days Max Temperatures Were Above 35°C</text>
+									<text transform="matrix(1 0 0 1 68 19)" class="st19 st20">Average Number of Days Max Temperatures Were Above 35°C</text>
 								</g>
 							</g>
 							<path pointer-events="none" class="st1" d="M-4,15"/>
@@ -395,30 +395,30 @@
 	<text transform="matrix(1 0 0 1 95.75 308.4463)" class="st2 st22 st23">2000 - 2009</text>
 	<rect x="95.8" y="419" class="st0" width="103" height="21"/>
 	<text transform="matrix(1 0 0 1 95.75 430.4463)" class="st2 st22 st23">1875 - 1999</text>
-	<rect x="94.2" y="523" class="st0" width="37" height="25"/>
-	<text transform="matrix(1 0 0 1 94.1667 531.5918)" class="st2 st19 st7">Jan</text>
-	<rect x="127.5" y="523" class="st0" width="37" height="25"/>
-	<text transform="matrix(1 0 0 1 127.5 531.5918)" class="st2 st19 st7">Feb</text>
-	<rect x="160.8" y="523" class="st0" width="37" height="25"/>
-	<text transform="matrix(1 0 0 1 160.8333 531.5918)" class="st2 st19 st7">Mar</text>
-	<rect x="194.2" y="523" class="st0" width="37" height="25"/>
-	<text transform="matrix(1 0 0 1 194.1667 531.5918)" class="st2 st19 st7">Apr</text>
-	<rect x="227.5" y="523" class="st0" width="37" height="25"/>
-	<text transform="matrix(1 0 0 1 227.5 531.5918)" class="st2 st19 st7">May</text>
-	<rect x="258.8" y="523" class="st0" width="37" height="25"/>
-	<text transform="matrix(1 0 0 1 258.8191 531.5918)" class="st2 st19 st7">Jun</text>
-	<rect x="294.2" y="523" class="st0" width="37" height="25"/>
-	<text transform="matrix(1 0 0 1 294.1667 531.5918)" class="st2 st19 st7">Jul</text>
-	<rect x="327.5" y="523" class="st0" width="37" height="25"/>
-	<text transform="matrix(1 0 0 1 327.5 531.5918)" class="st2 st19 st7">Aug</text>
-	<rect x="359.9" y="523" class="st0" width="37" height="25"/>
-	<text transform="matrix(1 0 0 1 359.9366 531.5918)" class="st2 st19 st7">Sep</text>
-	<rect x="394.2" y="523" class="st0" width="37" height="25"/>
-	<text transform="matrix(1 0 0 1 394.1667 531.5918)" class="st2 st19 st7">Oct</text>
-	<rect x="427.5" y="523" class="st0" width="37" height="25"/>
-	<text transform="matrix(1 0 0 1 427.5 531.5918)" class="st2 st19 st7">Nov</text>
-	<rect x="460.8" y="523" class="st0" width="37" height="25"/>
-	<text transform="matrix(1 0 0 1 460.8333 531.5918)" class="st2 st19 st7">Dec</text>
+	<rect x="86.2" y="523" class="st0" width="37" height="25"/>
+	<text transform="matrix(1 0 0 1 86.1667 531.5918)" class="st2 st19 st7">Jan</text>
+	<rect x="119.5" y="523" class="st0" width="37" height="25"/>
+	<text transform="matrix(1 0 0 1 119.5 531.5918)" class="st2 st19 st7">Feb</text>
+	<rect x="152.8" y="523" class="st0" width="37" height="25"/>
+	<text transform="matrix(1 0 0 1 152.8333 531.5918)" class="st2 st19 st7">Mar</text>
+	<rect x="186.2" y="523" class="st0" width="37" height="25"/>
+	<text transform="matrix(1 0 0 1 186.1667 531.5918)" class="st2 st19 st7">Apr</text>
+	<rect x="219.5" y="523" class="st0" width="37" height="25"/>
+	<text transform="matrix(1 0 0 1 219.5 531.5918)" class="st2 st19 st7">May</text>
+	<rect x="250.8" y="523" class="st0" width="37" height="25"/>
+	<text transform="matrix(1 0 0 1 250.8191 531.5918)" class="st2 st19 st7">Jun</text>
+	<rect x="286.2" y="523" class="st0" width="37" height="25"/>
+	<text transform="matrix(1 0 0 1 286.1667 531.5918)" class="st2 st19 st7">Jul</text>
+	<rect x="319.5" y="523" class="st0" width="37" height="25"/>
+	<text transform="matrix(1 0 0 1 319.5 531.5918)" class="st2 st19 st7">Aug</text>
+	<rect x="351.9" y="523" class="st0" width="37" height="25"/>
+	<text transform="matrix(1 0 0 1 351.9366 531.5918)" class="st2 st19 st7">Sep</text>
+	<rect x="386.2" y="523" class="st0" width="37" height="25"/>
+	<text transform="matrix(1 0 0 1 386.1667 531.5918)" class="st2 st19 st7">Oct</text>
+	<rect x="419.5" y="523" class="st0" width="37" height="25"/>
+	<text transform="matrix(1 0 0 1 419.5 531.5918)" class="st2 st19 st7">Nov</text>
+	<rect x="452.8" y="523" class="st0" width="37" height="25"/>
+	<text transform="matrix(1 0 0 1 452.8333 531.5918)" class="st2 st19 st7">Dec</text>
 </g>
 <g id="ai2html-settings">
 	<rect x="-450" class="st0" width="400" height="418"/>
