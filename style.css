@@ -8,11 +8,6 @@ html, body {
     margin: 0 auto;
 }
 
-.section_wide {
-    max-width: 1200px;
-    margin: 0 auto;
-}
-
 img {
     max-width: 100%
 }
@@ -34,6 +29,7 @@ img {
 
 .plot-holder h3 {
     font-size: 1.25em;
+    font-weight: bold
 }
 
 .plot-holder h2 {
@@ -47,4 +43,9 @@ img {
 .content h1 {
     font-size: 3em;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.section_wide {
+    max-width: 1200px;
+    margin: 0 auto;
 }
