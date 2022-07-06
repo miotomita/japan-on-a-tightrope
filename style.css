@@ -8,6 +8,11 @@ html, body {
     margin: 0 auto;
 }
 
+.section_wide {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
 img {
     max-width: 100%
 }
@@ -38,8 +43,6 @@ img {
 .plot-holder .subtitle {
     font-weight: bold;
 }
-
-
 
 .content h1 {
     font-size: 3em;
