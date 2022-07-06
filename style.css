@@ -28,12 +28,18 @@ img {
 }
 
 .plot-holder h3 {
-    font-size: 2em;
+    font-size: 1.5em;
+}
+
+.g-artboard h3 {
+    font-size: 1.5em;
 }
 
 .plot-holder .subtitle {
     font-weight: bold;
 }
+
+
 
 .content h1 {
     font-size: 3em;
