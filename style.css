@@ -45,7 +45,7 @@ img {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.section_wide {
+.wide-section {
     max-width: 1200px;
     margin: 0 auto;
 }
