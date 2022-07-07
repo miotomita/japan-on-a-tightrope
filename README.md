@@ -5,7 +5,7 @@ This is a repository for my second project at [the Lede Program 2022](https://le
 ## Data Source
 
 |chart title|source|code|
-|---|---|---|---|
+|---|---|---|
 |Heatmap: Tokyo's heatwave|[Japan Meteorological Agency](https://www.data.jma.go.jp/obd/stats/etrn/index.php)|[Lede-project2-electricity-usage.ipynb](https://github.com/miotomita/japan-on-a-tightrope/blob/main/codes/Lede-project2-electricity-usage.ipynb)|
 |strawberry|A+|---|
 |licorice|A+|---|
