@@ -40,6 +40,12 @@ img {
     font-weight: bold;
 }
 
+.plot-holder h4 {
+    padding-left:100px;
+    font-size: 1.25em;
+    font-weight: bold
+}
+
 .content h1 {
     font-size: 3em;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -48,9 +54,4 @@ img {
 .wide-section {
     max-width: 1200px;
     margin: 0 auto;
-}
-
-.content h1 {
-    font-size: 3em;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
