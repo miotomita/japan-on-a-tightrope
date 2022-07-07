@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 847 657" style="enable-background:new 0 0 847 657;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;}
+	.st2{fill:none;stroke:#888888;stroke-miterlimit:10;}
+	.st3{fill:#595959;}
+	.st4{font-family:'ArialMT';}
+	.st5{font-size:16px;}
+	.st6{font-family:'Arial-BoldMT';}
+	.st7{font-size:20px;}
+	.st8{display:none;}
+	.st9{fill:#F58518;}
+	.st10{fill:#4C78A8;}
+	.st11{fill:#E45756;}
+	.st12{fill:none;stroke:#000000;stroke-width:1.25;stroke-miterlimit:10;}
+	.st13{fill:none;stroke:#000000;stroke-width:1.25;stroke-miterlimit:10;stroke-dasharray:2.0067,2.0067;}
+	.st14{font-size:18px;}
+</style>
+<rect class="st0" width="847" height="657"/>
+<g transform="translate(151,5)">
+	<g>
+		<g transform="translate(0,0)">
+			<g>
+				<g id="xlabel">
+					<g transform="translate(0.5,600.5)">
+						<path pointer-events="none" class="st1" d="M0,0L0,0L0,0L0,0z"/>
+						<g>
+							<g pointer-events="none">
+								<line class="st2" x1="8" y1="0" x2="8" y2="5"/>
+								<line class="st2" x1="169" y1="0" x2="169" y2="5"/>
+								<line class="st2" x1="330" y1="0" x2="330" y2="5"/>
+								<line class="st2" x1="491" y1="0" x2="491" y2="5"/>
+							</g>
+							<g pointer-events="none">
+								<text transform="matrix(1 0 0 1 -10.2324 32)" class="st3 st4 st5">1990</text>
+								<text transform="matrix(1 0 0 1 151.058 32)" class="st3 st4 st5">2000</text>
+								<text transform="matrix(1 0 0 1 312.3483 32)" class="st3 st4 st5">2010</text>
+								<text transform="matrix(1 0 0 1 473.6386 32)" class="st3 st4 st5">2020</text>
+							</g>
+							<g pointer-events="none">
+								<line class="st2" x1="0" y1="0" x2="500" y2="0"/>
+							</g>
+							<g pointer-events="none">
+								<text transform="matrix(1 0 0 1 545.334 32)" class="st3 st6 st7">year</text>
+							</g>
+						</g>
+						<path pointer-events="none" class="st8" d="M0,0"/>
+					</g>
+				</g>
+				<g id="ylabel">
+					<g transform="translate(0.5,0.5)">
+						<path pointer-events="none" class="st1" d="M0,0L0,0L0,0L0,0z"/>
+						<g>
+							<g pointer-events="none">
+								<line class="st2" x1="0" y1="600" x2="-5" y2="600"/>
+								<line class="st2" x1="0" y1="520" x2="-5" y2="520"/>
+								<line class="st2" x1="0" y1="440" x2="-5" y2="440"/>
+								<line class="st2" x1="0" y1="360" x2="-5" y2="360"/>
+								<line class="st2" x1="0" y1="280" x2="-5" y2="280"/>
+								<line class="st2" x1="0" y1="200" x2="-5" y2="200"/>
+								<line class="st2" x1="0" y1="120" x2="-5" y2="120"/>
+							</g>
+							<g pointer-events="none">
+								<text transform="matrix(1 0 0 1 -33.8984 605)" class="st3 st4 st5">0</text>
+								<text transform="matrix(1 0 0 1 -82.8359 525)" class="st3 st4 st5">200,000</text>
+								<text transform="matrix(1 0 0 1 -82.8359 445)" class="st3 st4 st5">400,000</text>
+								<text transform="matrix(1 0 0 1 -82.8359 365)" class="st3 st4 st5">600,000</text>
+								<text transform="matrix(1 0 0 1 -82.8359 285)" class="st3 st4 st5">800,000</text>
+								<text transform="matrix(1 0 0 1 -96.1797 205)" class="st3 st4 st5">1,000,000</text>
+								<text transform="matrix(1 0 0 1 -96.1797 125)" class="st3 st4 st5">1,200,000</text>
+							</g>
+							<g pointer-events="none">
+								<line class="st2" x1="0" y1="600" x2="0" y2="37.5"/>
+							</g>
+						</g>
+						<path pointer-events="none" class="st8" d="M0,0"/>
+					</g>
+				</g>
+				<g id="chart">
+					<path class="st9" d="M0.8,302.3h14.5v216.8H0.8L0.8,302.3z"/>
+					<path class="st10" d="M0.8,519.1h14.5V600H0.8L0.8,519.1z"/>
+					<path class="st11" d="M0.8,263.2h14.5v39.1H0.8L0.8,263.2z"/>
+					<path class="st9" d="M16.9,295.6h14.5v219H16.9L16.9,295.6z"/>
+					<path class="st10" d="M16.9,514.6h14.5V600H16.9L16.9,514.6z"/>
+					<path class="st11" d="M16.9,253.5h14.5v42.1H16.9L16.9,253.5z"/>
+					<path class="st9" d="M33.1,287.1h14.5v223.6H33.1V287.1z"/>
+					<path class="st10" d="M33.1,510.7h14.5V600H33.1V510.7z"/>
+					<path class="st11" d="M33.1,250.6h14.5v36.5H33.1V250.6z"/>
+					<path class="st9" d="M49.2,290.3h14.5v210H49.2V290.3z"/>
+					<path class="st10" d="M49.2,500.3h14.5V600H49.2V500.3z"/>
+					<path class="st11" d="M49.2,248.9h14.5v41.4H49.2V248.9z"/>
+					<path class="st9" d="M65.3,256.1h14.5v236.3H65.3V256.1z"/>
+					<path class="st10" d="M65.3,492.3h14.5V600H65.3V492.3z"/>
+					<path class="st11" d="M65.3,225.9h14.5v30.1H65.3V225.9z"/>
+					<path class="st9" d="M81.5,255H96v228.5H81.5V255z"/>
+					<path class="st10" d="M81.5,483.5H96V600H81.5V483.5z"/>
+					<path class="st11" d="M81.5,218.5H96V255H81.5V218.5z"/>
+					<path class="st9" d="M97.6,246h14.5v233.1H97.6V246z"/>
+					<path class="st10" d="M97.6,479.1h14.5V600H97.6V479.1z"/>
+					<path class="st11" d="M97.6,210.6h14.5V246H97.6V210.6z"/>
+					<path class="st9" d="M113.7,240.9h14.5v231.4h-14.5L113.7,240.9z"/>
+					<path class="st10" d="M113.7,472.3h14.5V600h-14.5L113.7,472.3z"/>
+					<path class="st11" d="M113.7,201.4h14.5v39.5h-14.5L113.7,201.4z"/>
+					<path class="st9" d="M129.8,241.5h14.5v225.6h-14.5V241.5z"/>
+					<path class="st10" d="M129.8,467.1h14.5V600h-14.5V467.1z"/>
+					<path class="st11" d="M129.8,201.2h14.5v40.2h-14.5V201.2z"/>
+					<path class="st9" d="M146,232.4h14.5v241H146V232.4z"/>
+					<path class="st10" d="M146,473.4h14.5V600H146V473.4z"/>
+					<path class="st11" d="M146,193.8h14.5v38.6H146V193.8z"/>
+					<path class="st9" d="M162.1,224.8h14.5v246.4h-14.5V224.8z"/>
+					<path class="st10" d="M162.1,471.2h14.5V600h-14.5V471.2z"/>
+					<path class="st11" d="M162.1,186h14.5v38.8h-14.5V186z"/>
+					<path class="st9" d="M178.2,230.7h14.5v241.4h-14.5V230.7z"/>
+					<path class="st10" d="M178.2,472.1h14.5V600h-14.5V472.1z"/>
+					<path class="st11" d="M178.2,193.1h14.5v37.6h-14.5V193.1z"/>
+					<path class="st9" d="M194.4,223h14.5v259h-14.5V223z"/>
+					<path class="st10" d="M194.4,482h14.5v118h-14.5V482z"/>
+					<path class="st11" d="M194.4,185.2h14.5V223h-14.5V185.2z"/>
+					<path class="st9" d="M210.5,232.4H225V504h-14.5V232.4z"/>
+					<path class="st10" d="M210.5,504H225v96h-14.5V504z"/>
+					<path class="st11" d="M210.5,188.7H225v43.8h-14.5V188.7z"/>
+					<path class="st9" d="M226.6,220.3h14.5V487h-14.5V220.3z"/>
+					<path class="st10" d="M226.6,487h14.5v113h-14.5V487z"/>
+					<path class="st11" d="M226.6,176.7h14.5v43.6h-14.5V176.7z"/>
+					<path class="st9" d="M242.7,207.3h14.5v270.8h-14.5V207.3z"/>
+					<path class="st10" d="M242.7,478.1h14.5V600h-14.5V478.1z"/>
+					<path class="st11" d="M242.7,168.6h14.5v38.7h-14.5V168.6z"/>
+					<path class="st9" d="M258.9,210.7h14.5v267.9h-14.5V210.7z"/>
+					<path class="st10" d="M258.9,478.6h14.5V600h-14.5V478.6z"/>
+					<path class="st11" d="M258.9,167.1h14.5v43.6h-14.5V167.1z"/>
+					<path class="st9" d="M275,194.3h14.5v300.2H275V194.3z"/>
+					<path class="st10" d="M275,494.5h14.5V600H275V494.5z"/>
+					<path class="st11" d="M275,156.1h14.5v38.2H275V156.1z"/>
+					<path class="st9" d="M291.1,207.6h14.5v289.2h-14.5V207.6z"/>
+					<path class="st10" d="M291.1,496.7h14.5V600h-14.5V496.7z"/>
+					<path class="st11" d="M291.1,168.1h14.5v39.4h-14.5V168.1z"/>
+					<path class="st9" d="M307.3,216h14.5v272.1h-14.5V216z"/>
+					<path class="st10" d="M307.3,488.1h14.5V600h-14.5V488.1z"/>
+					<path class="st11" d="M307.3,176h14.5V216h-14.5V176z"/>
+					<path class="st9" d="M323.4,188.6h14.5v296.1h-14.5V188.6z"/>
+					<path class="st10" d="M323.4,484.7h14.5V600h-14.5V484.7z"/>
+					<path class="st11" d="M323.4,146h14.5v42.6h-14.5V146z"/>
+					<path class="st9" d="M339.5,214.3H354v345h-14.5V214.3z"/>
+					<path class="st10" d="M339.5,559.3H354V600h-14.5V559.3z"/>
+					<path class="st11" d="M339.5,170.4H354v43.9h-14.5V170.4z"/>
+					<path class="st9" d="M355.6,216.9h14.5v376.7h-14.5V216.9z"/>
+					<path class="st10" d="M355.6,593.6h14.5v6.4h-14.5V593.6z"/>
+					<path class="st11" d="M355.6,175.4h14.5v41.5h-14.5V175.4z"/>
+					<path class="st9" d="M371.8,218.9h14.5v377.4h-14.5V218.9z"/>
+					<path class="st10" d="M371.8,596.3h14.5v3.7h-14.5V596.3z"/>
+					<path class="st11" d="M371.8,173.1h14.5v45.8h-14.5V173.1z"/>
+					<path class="st9" d="M387.9,235.1h14.5V600h-14.5V235.1z"/>
+					<path class="st10" d="M387.9,600h14.5l0,0H387.9z"/>
+					<path class="st11" d="M387.9,183.3h14.5v51.9h-14.5V183.3z"/>
+					<path class="st9" d="M404,248.7h14.5v347.6H404V248.7z"/>
+					<path class="st10" d="M404,596.2h14.5v3.8H404V596.2z"/>
+					<path class="st11" d="M404,190.2h14.5v58.4H404V190.2z"/>
+					<path class="st9" d="M420.2,249.5h14.5v343.3h-14.5V249.5z"/>
+					<path class="st10" d="M420.2,592.8h14.5v7.2h-14.5V592.8z"/>
+					<path class="st11" d="M420.2,188.9h14.5v60.6h-14.5V188.9z"/>
+					<path class="st9" d="M436.3,252.8h14.5v334.1h-14.5V252.8z"/>
+					<path class="st10" d="M436.3,586.8h14.5V600h-14.5V586.8z"/>
+					<path class="st11" d="M436.3,185.6h14.5v67.2h-14.5V185.6z"/>
+					<path class="st9" d="M452.4,260.4h14.5V574h-14.5V260.4z"/>
+					<path class="st10" d="M452.4,574h14.5v26h-14.5V574z"/>
+					<path class="st11" d="M452.4,190.3h14.5v70.1h-14.5V190.3z"/>
+					<path class="st9" d="M468.5,274.2h14.5v300.3h-14.5V274.2z"/>
+					<path class="st10" d="M468.5,574.5h14.5V600h-14.5V574.5z"/>
+					<path class="st11" d="M468.5,199.7h14.5v74.5h-14.5V199.7z"/>
+					<path class="st9" d="M484.7,284.2h14.5v300.3h-14.5V284.2z"/>
+					<path class="st10" d="M484.7,584.5h14.5V600h-14.5V584.5z"/>
+					<path class="st11" d="M484.7,206.2h14.5v78h-14.5V206.2z"/>
+				</g>
+				<g id="legend">
+					<g transform="translate(518,0)">
+						<path pointer-events="none" class="st1" d="M12.9,263.8h173v77h-173V263.8z"/>
+						<g>
+							<g>
+								<g transform="translate(0,25)">
+									<path pointer-events="none" class="st1" d="M12.9,263.8L12.9,263.8L12.9,263.8L12.9,263.8z"/>
+									<g>
+										<g>
+											<g id="nuclear_group" transform="translate(0,0)">
+												<path pointer-events="none" class="st1" d="M12.9,369.8h173v16h-173V369.8z"/>
+												<g>
+													<g pointer-events="none">
+														<path class="st10" d="M15.9,372.8h10v10h-10V372.8z"/>
+													</g>
+													<g pointer-events="none">
+														<text transform="matrix(1 0 0 1 32.915 382.8152)" class="st4 st5">Nuclear</text>
+													</g>
+												</g>
+												<path pointer-events="none" class="st8" d="M0,0"/>
+											</g>
+											<g id="fossil_group" transform="translate(0,18)">
+												<path pointer-events="none" class="st1" d="M12.9,319.8h173v16h-173V319.8z"/>
+												<g>
+													<g pointer-events="none">
+														<path class="st9" d="M15.9,322.8h10v10h-10V322.8z"/>
+													</g>
+													<g pointer-events="none">
+														<text transform="matrix(1 0 0 1 32.915 332.8152)" class="st4 st5">Fossil fuels</text>
+													</g>
+												</g>
+												<path pointer-events="none" class="st8" d="M0,0"/>
+											</g>
+											<g id="renewable_group" transform="translate(0,36)">
+												<path pointer-events="none" class="st1" d="M12.9,269.8h173v16h-173V269.8z"/>
+												<g>
+													<g pointer-events="none">
+														<path class="st11" d="M15.9,272.8h10v10h-10V272.8z"/>
+													</g>
+													<g pointer-events="none">
+														<text transform="matrix(1 0 0 1 32.915 282.8152)" class="st4 st5">Renewables</text>
+													</g>
+												</g>
+												<path pointer-events="none" class="st8" d="M0,0"/>
+											</g>
+										</g>
+									</g>
+									<path pointer-events="none" class="st8" d="M0,0"/>
+								</g>
+							</g>
+						</g>
+						<path pointer-events="none" class="st8" d="M0,0"/>
+					</g>
+				</g>
+			</g>
+			<path class="st8" d="M0,0"/>
+		</g>
+	</g>
+</g>
+<rect x="90" y="147" class="st1" width="66" height="27"/>
+<text transform="matrix(1 0 0 1 90 158.4561)" class="st3 st6 st5">GWh</text>
+<g>
+	<line class="st0" x1="490.6" y1="75.7" x2="490.5" y2="605.5"/>
+	<g>
+		<line class="st12" x1="490.6" y1="75.7" x2="490.6" y2="76.7"/>
+		<line class="st13" x1="490.6" y1="78.7" x2="490.5" y2="603.5"/>
+		<line class="st12" x1="490.5" y1="604.5" x2="490.5" y2="605.5"/>
+	</g>
+</g>
+<rect x="506" y="34.3" class="st1" width="318" height="84.9"/>
+<text transform="matrix(1 0 0 1 505.9619 47.1711)"><tspan x="0" y="0" class="st6 st14">2011</tspan><tspan x="0" y="21.6" class="st6 st14">Great earthquake and</tspan><tspan x="0" y="43.2" class="st6 st14">Fukushima nuclear disaster</tspan></text>
+</svg>
