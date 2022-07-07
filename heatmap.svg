@@ -368,14 +368,14 @@
 	.st362{fill:none;}
 	.st363{fill:url(#SVGID_1_);}
 	.st364{font-family:'ArialMT';}
-	.st365{font-size:24px;}
+	.st365{font-size:14px;}
 	.st366{display:none;}
 	.st367{font-family:'Arial-BoldMT';}
-	.st368{font-size:18px;}
-	.st369{fill:none;stroke:#888888;stroke-miterlimit:10;}
-	.st370{fill:#595959;}
-	.st371{font-size:21px;}
-	.st372{fill:none;stroke:#6F0000;stroke-width:2.75;stroke-miterlimit:10;}
+	.st368{fill:none;stroke:#888888;stroke-miterlimit:10;}
+	.st369{fill:#595959;}
+	.st370{font-size:16px;}
+	.st371{fill:none;stroke:#6F0000;stroke-width:2.75;stroke-miterlimit:10;}
+	.st372{font-size:18px;}
 </style>
 <g id="Layer_1">
 	<rect class="st0" width="1286" height="857"/>
@@ -54093,7 +54093,7 @@
 													<path class="st363" d="M33,54h16v200H33V54z"/>
 												</g>
 												<g pointer-events="none">
-													<text transform="matrix(1 0 0 1 79.3047 251)" class="st364 st365">0</text>
+													<text transform="matrix(1 0 0 1 73.3047 251)" class="st364 st365">0</text>
 													<text transform="matrix(1 0 0 1 66.3047 209)" class="st364 st365">10</text>
 													<text transform="matrix(1 0 0 1 66.3047 159)" class="st364 st365">20</text>
 													<text transform="matrix(1 0 0 1 66.3047 109)" class="st364 st365">30</text>
@@ -54104,7 +54104,7 @@
 										</g>
 									</g>
 									<g pointer-events="none">
-										<text transform="matrix(1 0 0 1 33 49)" class="st367 st368">Deg. Celcius</text>
+										<text transform="matrix(1 0 0 1 25 49)" class="st367 st365">Deg. Celcius</text>
 									</g>
 								</g>
 								<path pointer-events="none" class="st366" d="M0,0"/>
@@ -54115,36 +54115,36 @@
 								<path pointer-events="none" class="st362" d="M0,0L0,0L0,0L0,0z"/>
 								<g>
 									<g pointer-events="none">
-										<line class="st369" x1="1" y1="0" x2="1" y2="5"/>
-										<line class="st369" x1="86" y1="0" x2="86" y2="5"/>
-										<line class="st369" x1="163" y1="0" x2="163" y2="5"/>
-										<line class="st369" x1="247" y1="0" x2="247" y2="5"/>
-										<line class="st369" x1="330" y1="0" x2="330" y2="5"/>
-										<line class="st369" x1="415" y1="0" x2="415" y2="5"/>
-										<line class="st369" x1="497" y1="0" x2="497" y2="5"/>
-										<line class="st369" x1="582" y1="0" x2="582" y2="5"/>
-										<line class="st369" x1="667" y1="0" x2="667" y2="5"/>
-										<line class="st369" x1="749" y1="0" x2="749" y2="5"/>
-										<line class="st369" x1="834" y1="0" x2="834" y2="5"/>
-										<line class="st369" x1="916" y1="0" x2="916" y2="5"/>
+										<line class="st368" x1="1" y1="0" x2="1" y2="5"/>
+										<line class="st368" x1="86" y1="0" x2="86" y2="5"/>
+										<line class="st368" x1="163" y1="0" x2="163" y2="5"/>
+										<line class="st368" x1="247" y1="0" x2="247" y2="5"/>
+										<line class="st368" x1="330" y1="0" x2="330" y2="5"/>
+										<line class="st368" x1="415" y1="0" x2="415" y2="5"/>
+										<line class="st368" x1="497" y1="0" x2="497" y2="5"/>
+										<line class="st368" x1="582" y1="0" x2="582" y2="5"/>
+										<line class="st368" x1="667" y1="0" x2="667" y2="5"/>
+										<line class="st368" x1="749" y1="0" x2="749" y2="5"/>
+										<line class="st368" x1="834" y1="0" x2="834" y2="5"/>
+										<line class="st368" x1="916" y1="0" x2="916" y2="5"/>
 									</g>
 									<g pointer-events="none">
-										<text transform="matrix(1 0 0 1 -0.5911 41)" class="st370 st364 st368">Jan</text>
-										<text transform="matrix(1 0 0 1 84.3404 41)" class="st370 st364 st368">Feb</text>
-										<text transform="matrix(1 0 0 1 161.0528 41)" class="st370 st364 st368">Mar</text>
-										<text transform="matrix(1 0 0 1 245.9843 41)" class="st370 st364 st368">Apr</text>
-										<text transform="matrix(1 0 0 1 328.1761 41)" class="st370 st364 st368">May</text>
-										<text transform="matrix(1 0 0 1 413.1075 41)" class="st370 st364 st368">Jun</text>
-										<text transform="matrix(1 0 0 1 495.2993 41)" class="st370 st364 st368">Jul</text>
-										<text transform="matrix(1 0 0 1 580.2308 41)" class="st370 st364 st368">Aug</text>
-										<text transform="matrix(1 0 0 1 665.1624 41)" class="st370 st364 st368">Sept</text>
-										<text transform="matrix(1 0 0 1 747.3541 41)" class="st370 st364 st368">Oct</text>
-										<text transform="matrix(1 0 0 1 832.8794 41)" class="st370 st364 st368">Nov</text>
-										<text transform="matrix(1 0 0 1 914.4774 41)" class="st370 st364 st368">Dec</text>
+										<text transform="matrix(1 0 0 1 -0.5911 38)" class="st369 st364 st365">Jan</text>
+										<text transform="matrix(1 0 0 1 84.3404 38)" class="st369 st364 st365">Feb</text>
+										<text transform="matrix(1 0 0 1 161.0528 38)" class="st369 st364 st365">Mar</text>
+										<text transform="matrix(1 0 0 1 245.9843 38)" class="st369 st364 st365">Apr</text>
+										<text transform="matrix(1 0 0 1 328.1761 38)" class="st369 st364 st365">May</text>
+										<text transform="matrix(1 0 0 1 413.1075 38)" class="st369 st364 st365">Jun</text>
+										<text transform="matrix(1 0 0 1 495.2993 38)" class="st369 st364 st365">Jul</text>
+										<text transform="matrix(1 0 0 1 580.2308 38)" class="st369 st364 st365">Aug</text>
+										<text transform="matrix(1 0 0 1 665.1624 38)" class="st369 st364 st365">Sept</text>
+										<text transform="matrix(1 0 0 1 747.3541 38)" class="st369 st364 st365">Oct</text>
+										<text transform="matrix(1 0 0 1 832.8794 38)" class="st369 st364 st365">Nov</text>
+										<text transform="matrix(1 0 0 1 914.4774 38)" class="st369 st364 st365">Dec</text>
 									</g>
 									<g pointer-events="none">
-										<path id="SVGID_x5F_00000084513864539063357000000018019163213417844618_x5F_" class="st362" d="M0,0h1000"/>
-										<text>										<textPath  xlink:href="#SVGID_x5F_00000084513864539063357000000018019163213417844618_x5F_" startOffset="74.1455%">
+										<path id="SVGID_x5F_00000030457708209068820760000015289734854554384828_x5F_" class="st362" d="M0,0h1000"/>
+										<text>										<textPath  xlink:href="#SVGID_x5F_00000030457708209068820760000015289734854554384828_x5F_" startOffset="74.1455%">
 										</textPath>
 </text>
 									</g>
@@ -54157,27 +54157,27 @@
 								<path pointer-events="none" class="st362" d="M0,0L0,0L0,0L0,0z"/>
 								<g>
 									<g pointer-events="none">
-										<line class="st369" x1="0" y1="83" x2="-5" y2="83"/>
-										<line class="st369" x1="0" y1="191" x2="-5" y2="191"/>
-										<line class="st369" x1="0" y1="300" x2="-5" y2="300"/>
-										<line class="st369" x1="0" y1="408" x2="-5" y2="408"/>
-										<line class="st369" x1="0" y1="516" x2="-5" y2="516"/>
-										<line class="st369" x1="0" y1="624" x2="-5" y2="624"/>
-										<line class="st369" x1="0" y1="732" x2="-5" y2="732"/>
-										<line class="st369" x1="0" y1="797" x2="-5" y2="797"/>
+										<line class="st368" x1="0" y1="83" x2="-5" y2="83"/>
+										<line class="st368" x1="0" y1="191" x2="-5" y2="191"/>
+										<line class="st368" x1="0" y1="300" x2="-5" y2="300"/>
+										<line class="st368" x1="0" y1="408" x2="-5" y2="408"/>
+										<line class="st368" x1="0" y1="516" x2="-5" y2="516"/>
+										<line class="st368" x1="0" y1="624" x2="-5" y2="624"/>
+										<line class="st368" x1="0" y1="732" x2="-5" y2="732"/>
+										<line class="st368" x1="0" y1="797" x2="-5" y2="797"/>
 									</g>
 									<g pointer-events="none">
-										<text transform="matrix(1 0 0 1 -82.5938 88.2838)" class="st370 st364 st368">1890</text>
-										<text transform="matrix(1 0 0 1 -82.5938 196.3919)" class="st370 st364 st368">1910</text>
-										<text transform="matrix(1 0 0 1 -82.5938 304.5)" class="st370 st364 st368">1930</text>
-										<text transform="matrix(1 0 0 1 -82.5938 412.6081)" class="st370 st364 st368">1950</text>
-										<text transform="matrix(1 0 0 1 -82.5938 520.7162)" class="st370 st364 st368">1970</text>
-										<text transform="matrix(1 0 0 1 -82.5938 628.8243)" class="st370 st364 st368">1990</text>
-										<text transform="matrix(1 0 0 1 -82.5938 736.9324)" class="st370 st364 st368">2010</text>
-										<text transform="matrix(1 0 0 1 -82.5938 801.7973)" class="st370 st364 st368">2022</text>
+										<text transform="matrix(1 0 0 1 -82.5938 88.2838)" class="st369 st364 st365">1890</text>
+										<text transform="matrix(1 0 0 1 -82.5938 196.3919)" class="st369 st364 st365">1910</text>
+										<text transform="matrix(1 0 0 1 -82.5938 304.5)" class="st369 st364 st365">1930</text>
+										<text transform="matrix(1 0 0 1 -82.5938 412.6081)" class="st369 st364 st365">1950</text>
+										<text transform="matrix(1 0 0 1 -82.5938 520.7162)" class="st369 st364 st365">1970</text>
+										<text transform="matrix(1 0 0 1 -82.5938 628.8243)" class="st369 st364 st365">1990</text>
+										<text transform="matrix(1 0 0 1 -82.5938 736.9324)" class="st369 st364 st365">2010</text>
+										<text transform="matrix(1 0 0 1 -82.5938 801.7973)" class="st369 st364 st365">2022</text>
 									</g>
 									<g pointer-events="none">
-										<line class="st369" x1="0" y1="0" x2="0" y2="800"/>
+										<line class="st368" x1="0" y1="0" x2="0" y2="800"/>
 									</g>
 								</g>
 								<path pointer-events="none" class="st366" d="M0,0"/>
@@ -54189,18 +54189,18 @@
 			</g>
 		</g>
 		<rect x="288.5" y="692" class="st362" width="318.8" height="103"/>
-		<text transform="matrix(1 0 0 1 288.4889 707.0122)"><tspan x="0" y="0" class="st355 st367 st371">Longest streak of</tspan><tspan x="0" y="25.2" class="st355 st367 st371">days over 35 deg.</tspan></text>
+		<text transform="matrix(1 0 0 1 288.4889 703.4321)"><tspan x="0" y="0" class="st355 st367 st370">Longest streak of</tspan><tspan x="0" y="19.2" class="st355 st367 st370">days over 35 deg.</tspan></text>
 	</g>
 	<g>
 		<g>
-			<line class="st372" x1="511.7" y1="745.5" x2="542" y2="781.5"/>
+			<line class="st371" x1="511.7" y1="745.5" x2="542" y2="781.5"/>
 			<g>
 				<path class="st355" d="M552.8,794.2c-7.3-4.1-17.3-8.3-25.2-9.5l13-4.8l6.9-12.1C547.4,775.8,549.9,786.4,552.8,794.2z"/>
 			</g>
 		</g>
 	</g>
 	<rect x="7.2" y="18.6" class="st362" width="103" height="53.9"/>
-	<text transform="matrix(1 0 0 1 7.1739 33.6022)" class="st370 st367 st371">year</text>
+	<text transform="matrix(1 0 0 1 7.1739 31.4542)" class="st369 st367 st372">year</text>
 </g>
 <g id="ai2html-settings">
 	<rect x="-450" class="st362" width="400" height="418"/>
